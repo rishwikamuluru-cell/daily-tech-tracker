@@ -1,0 +1,33 @@
+name: Scheduled Automated Tracker
+
+on:
+  schedule:
+    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC) -> 4 commits per day
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows you to trigger it manually anytime
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Gives GitHub Actions permission to push commits
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Script
+        run: python fetch_news.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          # REPLACE the email below with your GitHub account email so it counts to YOUR green squares!
+          git config --global user.email "your-github-email@example.com"
+          git add LATEST_NEWS.md
+          git commit -m "Auto-update tech digest: $(date -u +'%Y-%m-%d %H:%M UTC')" || exit 0
+          git push
