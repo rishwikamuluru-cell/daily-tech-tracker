@@ -61,3 +61,10 @@
 - [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss)
 - [Will a switch to light speed cut power use at data centres?](https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss)
 - [Huge data centres rise at 'China speed' to power its AI ambitions](https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-23 22:05:04 UTC
+- [AI superpower ambitions take centre stage as Trump and Xi meet](https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss)
+- [Pornhub investigated over its age checks](https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss)
+- [OpenAI gives cyber defence tools to Ukraine](https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss)
+- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss)
+- [Will a switch to light speed cut power use at data centres?](https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss)
