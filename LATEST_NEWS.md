@@ -33,3 +33,10 @@
 - [Rare look at the remote engine rooms powering China's AI ambitions](https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss)
 - [Call of Duty's Activision to make next Halo game as Xbox cuts more jobs ](https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss)
 - [Not all AI workers think the tech could kill everyone](https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-23 04:59:36 UTC
+- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss)
+- [Will a switch to light speed cut power use at data centres?](https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss)
+- [As Trump and Xi talk, China surges ahead with its AI ambitions](https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss)
+- [Rare look at the remote engine rooms powering China's AI ambitions](https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss)
+- [Call of Duty's Activision to make next Halo game as Xbox cuts more jobs ](https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss)
