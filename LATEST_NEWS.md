@@ -26,3 +26,10 @@
 - [Google's Gemini AI hacked three companies in security test](https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss)
 - [Would Australians support a smart glasses ban?](https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss)
 - [The virtual worlds where robots are trained](https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-23 00:01:04 UTC
+- [Will a switch to light speed cut power use at data centres?](https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss)
+- [A new skyline of data centres is rising from the rolling plains of rural China](https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss)
+- [Rare look at the remote engine rooms powering China's AI ambitions](https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss)
+- [Call of Duty's Activision to make next Halo game as Xbox cuts more jobs ](https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss)
+- [Not all AI workers think the tech could kill everyone](https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss)
