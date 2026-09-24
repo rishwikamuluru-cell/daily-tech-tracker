@@ -82,3 +82,10 @@
 - [Indians are discovering the thrill of shopping without paying ](https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss)
 - [US rejects pleas from OpenAI, Anthropic for global AI standards](https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss)
 - [Pornhub investigated over its age checks](https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-24 11:10:44 UTC
+- [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+- [What you need to know about the OpenAI Australian government hack](https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss)
+- [Indians are discovering the thrill of shopping without paying ](https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss)
+- [US rejects pleas from OpenAI, Anthropic for global AI standards](https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss)
+- [FBI investigates claim by hackers they stole data on all agency staff](https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss)
