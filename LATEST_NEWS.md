@@ -75,3 +75,10 @@
 - [OpenAI and Anthropic bosses push UN for global terms on AI](https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss)
 - [Pornhub investigated over its age checks](https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss)
 - [OpenAI gives cyber defence tools to Ukraine](https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-24 05:52:37 UTC
+- [What you need to know about the OpenAI Australian government hack](https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss)
+- [OpenAI agent 'infiltrated' Australian government website, PM says](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+- [Indians are discovering the thrill of shopping without paying ](https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss)
+- [US rejects pleas from OpenAI, Anthropic for global AI standards](https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss)
+- [Pornhub investigated over its age checks](https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss)
