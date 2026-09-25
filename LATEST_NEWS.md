@@ -110,3 +110,10 @@
 - [Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?](https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss)
 - [FBI investigating claim hackers have stolen details of all its agents](https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss)
 - [Are we back in big tech's 'move fast and break things' era?](https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-25 01:43:51 UTC
+- [X-planes: Are they needed in the new era of drones?](https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss)
+- [Why Australia chose the world's biggest political stage to reveal OpenAI hack](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss)
+- [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
+- [Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?](https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss)
+- [FBI investigating claim hackers have stolen details of all its agents](https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss)
