@@ -131,3 +131,10 @@
 - [Why Australia chose the world's biggest political stage to reveal OpenAI hack](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss)
 - [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
 - [Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?](https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-25 17:46:44 UTC
+- [Special agents' blood and urine test results stolen in FBI hack](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
+- [US backs Elon Musk's bid to overturn €120m EU fine against X](https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss)
+- [X-planes: Are they needed in the new era of drones?](https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss)
+- [Why Australia chose the world's biggest political stage to reveal OpenAI hack](https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss)
+- [Rogue OpenAI agent 'infiltrated' Australian government website in world first](https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss)
