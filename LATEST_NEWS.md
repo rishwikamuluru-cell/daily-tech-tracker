@@ -166,3 +166,10 @@
 - [Special agents' blood and urine test results stolen in FBI hack](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
 - [US backs Elon Musk's bid to overturn €120m EU fine against X](https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss)
 - [X-planes: Are they needed in the new era of drones?](https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-26 14:38:44 UTC
+- [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+- [Inside iconic horror game Silent Hill's Scottish makeover](https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss)
+- [Special agents' blood and urine test results stolen in FBI hack](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
+- [US backs Elon Musk's bid to overturn €120m EU fine against X](https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss)
+- [X-planes: Are they needed in the new era of drones?](https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss)
