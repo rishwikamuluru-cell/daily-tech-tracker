@@ -250,3 +250,10 @@
 - [Inside iconic horror game Silent Hill's Scottish makeover](https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss)
 - [Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach](https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss)
 - [Special agents' blood and urine test results stolen in FBI hack](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-28 20:11:15 UTC
+- [Apple ordered to pay $5.7bn after losing vibration tech patent suit](https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss)
+- [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+- [Inside iconic horror game Silent Hill's Scottish makeover](https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss)
+- [Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach](https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss)
+- [Special agents' blood and urine test results stolen in FBI hack](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
