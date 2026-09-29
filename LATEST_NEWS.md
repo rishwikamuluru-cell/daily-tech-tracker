@@ -278,3 +278,10 @@
 - [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
 - [Inside iconic horror game Silent Hill's Scottish makeover](https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss)
 - [Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach](https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-29 18:47:42 UTC
+- [Oura pulls $15bn stock market listing days after announcement](https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss)
+- [OpenAI scraps rollout of new model over safety concerns](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
+- [Apple ordered to pay $5.7bn after losing vibration tech patent suit](https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss)
+- [OpenAI bots meddled with multiple US government agency sites](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
+- [Inside iconic horror game Silent Hill's Scottish makeover](https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss)
