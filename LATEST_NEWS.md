@@ -313,3 +313,10 @@
 - [OpenAI unveils AI assistant 'dots' while safety worries delay new model](https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss)
 - [Three takeaways from Trump's 'Super Intelligence' summit](https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss)
 - [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-09-30 20:13:11 UTC
+- [Regulating AI 'not the right place to start' says Bailey](https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss)
+- [WhatsApp introduces optional parental controls for teenagers](https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss)
+- [OpenAI unveils AI assistant 'dots' while safety worries delay new model](https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss)
+- [Three takeaways from Trump's 'Super Intelligence' summit](https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss)
+- [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)
