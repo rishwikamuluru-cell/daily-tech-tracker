@@ -327,3 +327,10 @@
 - [Regulating AI 'not the right place to start' says Bailey](https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss)
 - [WhatsApp introduces optional parental controls for teenagers](https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss)
 - [OpenAI unveils AI assistant 'dots' while safety worries delay new model](https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-01 06:21:38 UTC
+- [AI boom could trigger market shocks, Bank of England boss warns](https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss)
+- [Tiny image sparks big backlash in Nikon photo contest](https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss)
+- [The AI telling farmers when to harvest](https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss)
+- [Regulating AI 'not the right place to start' says Bailey](https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss)
+- [WhatsApp introduces optional parental controls for teenagers](https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss)
