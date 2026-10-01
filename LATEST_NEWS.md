@@ -320,3 +320,10 @@
 - [OpenAI unveils AI assistant 'dots' while safety worries delay new model](https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss)
 - [Three takeaways from Trump's 'Super Intelligence' summit](https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss)
 - [Chinese AI tool told researchers how to make bioweapons](https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-01 00:03:19 UTC
+- [Tiny image sparks big backlash in Nikon photo contest](https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss)
+- [The AI telling farmers when to harvest](https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss)
+- [Regulating AI 'not the right place to start' says Bailey](https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss)
+- [WhatsApp introduces optional parental controls for teenagers](https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss)
+- [OpenAI unveils AI assistant 'dots' while safety worries delay new model](https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss)
