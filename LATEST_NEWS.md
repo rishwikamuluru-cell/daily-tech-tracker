@@ -348,3 +348,10 @@
 - [Tiny image sparks big backlash in Nikon photo contest](https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss)
 - [The AI telling farmers when to harvest](https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss)
 - [Regulating AI 'not the right place to start' says Bailey](https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-01 23:20:38 UTC
+- [Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names](https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss)
+- [AI boom could trigger market shocks, Bank of England boss warns](https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss)
+- [Tiny image sparks big backlash in Nikon photo contest](https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss)
+- [The AI telling farmers when to harvest](https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss)
+- [Regulating AI 'not the right place to start' says Bailey](https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss)
