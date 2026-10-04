@@ -453,3 +453,10 @@
 - [Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names](https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss)
 - [AI boom could trigger market shocks, Bank of England boss warns](https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss)
 - [Tiny image sparks big backlash in Nikon photo contest](https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-04 20:20:35 UTC
+- [OpenAI fires workers for 'mishandling sensitive information'](https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss)
+- [Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
+- [Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names](https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss)
+- [AI boom could trigger market shocks, Bank of England boss warns](https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss)
+- [Tiny image sparks big backlash in Nikon photo contest](https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss)
