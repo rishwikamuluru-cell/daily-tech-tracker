@@ -481,3 +481,10 @@
 - [Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
 - [Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names](https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss)
 - [AI boom could trigger market shocks, Bank of England boss warns](https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-05 18:46:44 UTC
+- [Pentagon stops using Anthropic AI tools after blacklisting company, BBC told](https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss)
+- [Trump chooses top spy boss to run new AI taskforce](https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss)
+- [OpenAI fires workers for 'mishandling sensitive information'](https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss)
+- [Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
+- [Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names](https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss)
