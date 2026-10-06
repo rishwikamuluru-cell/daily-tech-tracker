@@ -502,3 +502,10 @@
 - [Trump chooses top spy boss to run new AI taskforce](https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss)
 - [OpenAI fires workers for 'mishandling sensitive information'](https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss)
 - [Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-06 14:23:26 UTC
+- [Italian PM files to trademark her voice against AI threats](https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss)
+- [ASOS app users receive push notifications apparently sent by hackers](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+- [Ofcom investigates Meta over Instagram Instants feature](https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss)
+- [Lego fraudster among last year's most high-profile insurance scammers](https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss)
+- [Pentagon stops using Anthropic AI tools after blacklisting company, BBC told](https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss)
