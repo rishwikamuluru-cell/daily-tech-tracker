@@ -509,3 +509,10 @@
 - [Ofcom investigates Meta over Instagram Instants feature](https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss)
 - [Lego fraudster among last year's most high-profile insurance scammers](https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss)
 - [Pentagon stops using Anthropic AI tools after blacklisting company, BBC told](https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-06 19:42:56 UTC
+- [Asos confirms hackers sent 'unauthorised' notification to app users](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+- [Finland orders halt to work on two Google data centres](https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss)
+- [Italian PM files to trademark her voice against AI threats](https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss)
+- [Ofcom investigates Meta over Instagram Instants feature](https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss)
+- [Lego fraudster among last year's most high-profile insurance scammers](https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss)
