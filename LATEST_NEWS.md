@@ -537,3 +537,10 @@
 - [Asos confirms hackers sent 'unauthorised' notification to app users](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
 - [Finland orders halt to work on two Google data centres](https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss)
 - [Italian PM files to trademark her voice against AI threats](https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-07 18:29:02 UTC
+- [Rainmakers: The drones used to seed clouds](https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss)
+- [Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'](https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss)
+- [Asos confirms hackers sent 'unauthorised' notification to app users](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+- [Finland orders halt to work on two Google data centres](https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss)
+- [Italian PM files to trademark her voice against AI threats](https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss)
