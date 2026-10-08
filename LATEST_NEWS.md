@@ -558,3 +558,10 @@
 - [OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'](https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss)
 - [Rainmakers: The drones used to seed clouds](https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss)
 - [Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'](https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-08 10:04:21 UTC
+- [Asos hackers took more personal details than first revealed, BBC finds](https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss)
+- [AI chip boom pushes Samsung profits to record $80bn](https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss)
+- [Fuel prices added to Google Maps as petrol and diesel costs soar](https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss)
+- [OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'](https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss)
+- [Rainmakers: The drones used to seed clouds](https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss)
