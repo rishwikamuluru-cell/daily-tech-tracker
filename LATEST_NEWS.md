@@ -586,3 +586,10 @@
 - [Asos hackers took more personal details than first revealed, BBC finds](https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss)
 - [AI chip boom pushes Samsung profits to record $80bn](https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss)
 - [Fuel prices added to Google Maps as petrol and diesel costs soar](https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-09 10:06:42 UTC
+- [Fired OpenAI researchers say they were let go for 'prioritising safety'](https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss)
+- [Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen](https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss)
+- ['Careless use of AI is the real threat - not the ghost stories'](https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss)
+- [Why are more roofs not made of solar tiles?](https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss)
+- [White House blocks Microsoft from foreign worker hiring programme](https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss)
