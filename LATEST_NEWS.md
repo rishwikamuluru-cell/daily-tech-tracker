@@ -628,3 +628,10 @@
 - [Prize-winning image which sparked backlash was AI-generated, Nikon rules](https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss)
 - [Anthropic bans users from being 'cruel' to its AI systems](https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss)
 - [Fired OpenAI researchers say they were let go for 'prioritising safety'](https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-10 19:07:42 UTC
+- [King warns malicious online actors are evolving tactics](https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss)
+- [Rogue Anthropic AI agent gave police fake tip in unsolved murder case](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss)
+- [How drones are hunting fires hidden beneath the Cairngorms ](https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss)
+- [Prize-winning image which sparked backlash was AI-generated, Nikon rules](https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss)
+- [Anthropic bans users from being 'cruel' to its AI systems](https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss)
