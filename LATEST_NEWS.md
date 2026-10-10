@@ -614,3 +614,10 @@
 - [Fired OpenAI researchers say they were let go for 'prioritising safety'](https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss)
 - [Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen](https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss)
 - ['Careless use of AI is the real threat - not the ghost stories'](https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-10 08:08:13 UTC
+- [Prize-winning image which sparked backlash was AI-generated, Nikon rules](https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss)
+- [Anthropic bans users from being 'cruel' to its AI systems](https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss)
+- [Fired OpenAI researchers say they were let go for 'prioritising safety'](https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss)
+- [Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen](https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss)
+- ['Careless use of AI is the real threat - not the ghost stories'](https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss)
