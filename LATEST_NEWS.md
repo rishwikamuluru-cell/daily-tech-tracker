@@ -684,3 +684,10 @@
 - [Rogue Anthropic AI agent gave police fake tip in unsolved murder case](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss)
 - [How drones are hunting fires hidden beneath the Cairngorms ](https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss)
 - [Prize-winning image which sparked backlash was AI-generated, Nikon rules](https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-12 10:16:55 UTC
+- [AI is less regulated than milk, says Microsoft president](https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss)
+- [King warns malicious online actors are evolving tactics](https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss)
+- [Rogue Anthropic AI agent gave police fake tip in unsolved murder case](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss)
+- [How drones are hunting fires hidden beneath the Cairngorms ](https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss)
+- [Prize-winning image which sparked backlash was AI-generated, Nikon rules](https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss)
