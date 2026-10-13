@@ -698,3 +698,10 @@
 - [King warns malicious online actors are evolving tactics](https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss)
 - [Rogue Anthropic AI agent gave police fake tip in unsolved murder case](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss)
 - [How drones are hunting fires hidden beneath the Cairngorms ](https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-13 01:53:26 UTC
+- [Bumble shares soar after report dating firm in $1bn takeover talks](https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss)
+- [AI minister warns 'likely' UK's cyber defences will be breached](https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss)
+- [AI is less regulated than milk, says Microsoft president](https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss)
+- [King warns malicious online actors are evolving tactics](https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss)
+- [Rogue Anthropic AI agent gave police fake tip in unsolved murder case](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss)
