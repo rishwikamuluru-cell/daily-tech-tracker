@@ -719,3 +719,10 @@
 - [AI minister warns 'likely' UK's cyber defences will be breached](https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss)
 - [AI is less regulated than milk, says Microsoft president](https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss)
 - [King warns malicious online actors are evolving tactics](https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-13 21:44:29 UTC
+- [Bumble bought for $1.3bn in 'bet on the future of humanity'](https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss)
+- [Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim](https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss)
+- [AI minister warns 'likely' UK's cyber defences will be breached](https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss)
+- [AI is less regulated than milk, says Microsoft president](https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss)
+- [King warns malicious online actors are evolving tactics](https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss)
