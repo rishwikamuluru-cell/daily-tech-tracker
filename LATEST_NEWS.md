@@ -747,3 +747,10 @@
 - [Bumble bought for $1.3bn in 'bet on the future of humanity'](https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss)
 - [Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim](https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss)
 - [AI minister warns 'likely' UK's cyber defences will be breached](https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-14 15:54:13 UTC
+- ['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire](https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss)
+- [How long will humans be needed for translation?](https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss)
+- [Bumble bought for $1.3bn in 'bet on the future of humanity'](https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss)
+- [Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim](https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss)
+- [AI minister warns 'likely' UK's cyber defences will be breached](https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss)
