@@ -796,3 +796,10 @@
 - [Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer](https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss)
 - ['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire](https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss)
 - [How long will humans be needed for translation?](https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-15 20:58:27 UTC
+- [GTA 6 - all you need to know about Rockstar's blockbuster game](https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss)
+- [AI giant Anthropic woos potential investors ahead of stock market debut](https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss)
+- [Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer](https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss)
+- ['I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire](https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss)
+- [How long will humans be needed for translation?](https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss)
