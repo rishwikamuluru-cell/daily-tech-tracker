@@ -824,3 +824,10 @@
 - [GTA 6 - all you need to know about Rockstar's blockbuster game](https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss)
 - [AI giant Anthropic woos potential investors ahead of stock market debut](https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss)
 - [Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer](https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-16 13:25:49 UTC
+- [Snapchat and Instagram grooming becoming 'easier'](https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss)
+- [Porn showing choking or incest to be banned from early November, government says](https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss)
+- [Living with a stink? Technology might help](https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss)
+- [GTA 6 - all you need to know about Rockstar's blockbuster game](https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss)
+- [AI giant Anthropic woos potential investors ahead of stock market debut](https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss)
