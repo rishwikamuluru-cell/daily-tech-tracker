@@ -873,3 +873,10 @@
 - [Snapchat and Instagram grooming becoming 'easier'](https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss)
 - [Porn showing choking or incest to be banned from early November, government says](https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss)
 - [Living with a stink? Technology might help](https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-17 13:51:41 UTC
+- [Toxic algorithms wouldn't let them go - now Australia wants an off switch](https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss)
+- [Russian man linked to deadly London hospitals hack arrested](https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss)
+- [Snapchat and Instagram grooming becoming 'easier'](https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss)
+- [Porn showing choking or incest to be banned from early November, government says](https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss)
+- [Living with a stink? Technology might help](https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss)
