@@ -936,3 +936,10 @@
 - [Russian man linked to deadly London hospitals hack arrested](https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss)
 - [Snapchat and Instagram grooming becoming 'easier'](https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss)
 - [Porn showing choking or incest to be banned from early November, government says](https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-18 18:47:12 UTC
+- [No further action against government adviser's wife over Palestine Action post, police say](https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss)
+- [Toxic algorithms wouldn't let them go - now Australia wants an off switch](https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss)
+- [Russian man linked to deadly London hospitals hack arrested](https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss)
+- [Snapchat and Instagram grooming becoming 'easier'](https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss)
+- [Porn showing choking or incest to be banned from early November, government says](https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss)
