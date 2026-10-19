@@ -957,3 +957,10 @@
 - [Toxic algorithms wouldn't let them go - now Australia wants an off switch](https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss)
 - [Russian man linked to deadly London hospitals hack arrested](https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss)
 - [Snapchat and Instagram grooming becoming 'easier'](https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-19 03:26:19 UTC
+- [China's growth accelerates as AI export boom outweighs domestic weakness](https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss)
+- [Anthropic says it will commit 5% of its shares to 'public benefit fund'](https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss)
+- [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss)
+- [No further action against government adviser's wife over Palestine Action post, police say](https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss)
+- [Toxic algorithms wouldn't let them go - now Australia wants an off switch](https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss)
