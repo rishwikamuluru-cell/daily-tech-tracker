@@ -964,3 +964,10 @@
 - [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss)
 - [No further action against government adviser's wife over Palestine Action post, police say](https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss)
 - [Toxic algorithms wouldn't let them go - now Australia wants an off switch](https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-19 09:13:15 UTC
+- [Anthropic says it will commit 5% of its shares to 'public benefit fund'](https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss)
+- [China's growth accelerates as AI boom helps boost exports](https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss)
+- [Don't fall for this - how to protect yourself from AI scams](https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss)
+- [No further action against government adviser's wife over Palestine Action post, police say](https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss)
+- [Toxic algorithms wouldn't let them go - now Australia wants an off switch](https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss)
