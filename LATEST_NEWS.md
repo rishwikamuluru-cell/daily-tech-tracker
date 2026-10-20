@@ -992,3 +992,10 @@
 - [Uber wins bid to throw out £200m black cab claims](https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss)
 - [Musk and Anthropic pledge public share giveaways ](https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss)
 - [China's growth accelerates as AI boom helps boost exports](https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-20 05:40:59 UTC
+- [Ex-OpenAI worker accused of planting device had Saudi support, says court filing](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
+- [US bans DeepSeek AI from government use as tech tension with China continues](https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss)
+- [Uber wins bid to throw out £200m black cab claims](https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss)
+- [Musk and Anthropic pledge public share giveaways ](https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss)
+- [China's growth accelerates as AI boom helps boost exports](https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss)
