@@ -1013,3 +1013,10 @@
 - [Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
 - [US bans China's DeepSeek from government in race for AI dominance](https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss)
 - [Uber wins bid to throw out £200m black cab claims](https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-20 19:50:15 UTC
+- [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
+- [Google resolves cloud outage affecting UK banks and websites](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
+- [UK asks Apple to widen access to its payment tech ](https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss)
+- [Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)
+- [US bans China's DeepSeek from government in race for AI dominance](https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss)
