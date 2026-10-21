@@ -1041,3 +1041,10 @@
 - [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
 - [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
 - [Google resolves cloud outage affecting UK banks and websites](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-21 12:10:50 UTC
+- [Cyber chiefs tell websites to make critical safety update or go offline](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
+- [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+- [Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
+- [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
+- [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
