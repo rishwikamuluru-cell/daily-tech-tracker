@@ -1055,3 +1055,10 @@
 - [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
 - [Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
 - [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-21 21:17:38 UTC
+- [Websites taken down worldwide as critical cyber-security update issued](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
+- [Just Eat apologises for AI food mistakes after social media ridicule](https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss)
+- [Elon Musk confirms he is considering merging Tesla and SpaceX](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+- [Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
+- [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
