@@ -1034,3 +1034,10 @@
 - [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
 - [Google resolves cloud outage affecting UK banks and websites](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
 - [UK asks Apple to widen access to its payment tech ](https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-21 06:19:54 UTC
+- [Elon Musk considering Tesla-SpaceX merger](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)
+- [Why does Elon Musk want to merge Tesla and SpaceX?](https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss)
+- [The tech helping crack decades-old cold cases](https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss)
+- [OpenAI CEO Sam Altman wins dismissal of sister's lawsuit](https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss)
+- [Google resolves cloud outage affecting UK banks and websites](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
