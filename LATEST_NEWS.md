@@ -1321,3 +1321,10 @@
 - [Anthropic's blockbuster share listing - 5 surprising things we now know](https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss)
 - [Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss)
 - [Big, noisy and coming to a town near you - why the data centre backlash is growing](https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-28 17:00:03 UTC
+- ['An annoying buzz': The search for stealthier drones](https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss)
+- [Apple to replace iPhone Duos affected by screen problem](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss)
+- [Anthropic's blockbuster share listing - 5 surprising things we now know](https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss)
+- [Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss)
+- [Big, noisy and coming to a town near you - why the data centre backlash is growing](https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss)
