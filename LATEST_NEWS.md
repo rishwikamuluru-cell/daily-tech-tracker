@@ -1342,3 +1342,10 @@
 - [Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss](https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss)
 - ['An annoying buzz': The search for stealthier drones](https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss)
 - [Apple to replace iPhone Duos affected by screen problem](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-29 08:04:07 UTC
+- [Ofcom outlines ways social media can verify ages of users](https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss)
+- [Details of thousands of US immigration agents leaked in major hack](https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss)
+- [Microsoft profits soar days after announcing thousands of layoffs](https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss)
+- [Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss](https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss)
+- ['An annoying buzz': The search for stealthier drones](https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss)
