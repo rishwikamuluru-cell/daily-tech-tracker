@@ -1335,3 +1335,10 @@
 - [Apple to replace iPhone Duos affected by screen problem](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss)
 - [Anthropic's blockbuster share listing - 5 surprising things we now know](https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss)
 - [Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing](https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-29 01:34:11 UTC
+- [Details of thousands of US immigration agents leaked in major hack](https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss)
+- [Microsoft profits soar days after announcing thousands of layoffs](https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss)
+- [Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss](https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss)
+- ['An annoying buzz': The search for stealthier drones](https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss)
+- [Apple to replace iPhone Duos affected by screen problem](https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss)
