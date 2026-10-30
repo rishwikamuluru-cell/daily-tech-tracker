@@ -1377,3 +1377,10 @@
 - [Ofcom outlines age check methods ahead of social media ban for under-16s](https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss)
 - [Details of thousands of US immigration agents leaked in major hack](https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss)
 - [Microsoft profits soar days after announcing thousands of layoffs](https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-30 13:19:37 UTC
+- [Google value plunges by $500bn as its own AI search hits ad sales](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
+- [What we know so far about the Binance hack](https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss)
+- [From Bitcoin to Binance: Crypto terms and what they mean](https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss)
+- [Crypto giant Binance hit by $6.3bn hack suspected to be largest in history](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)
+- [How video game remakes tap the power of nostalgia](https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss)
