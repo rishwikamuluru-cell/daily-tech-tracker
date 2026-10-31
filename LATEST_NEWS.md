@@ -1405,3 +1405,10 @@
 - [Who could be behind the Binance hack and what we know so far](https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss)
 - [From Bitcoin to Binance: Crypto terms and what they mean](https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss)
 - [Crypto giant Binance hit by $6.3bn hack suspected to be largest in history](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-10-31 08:40:16 UTC
+- [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
+- [US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)
+- [Google value plunges by $500bn as its own AI search hits ad sales](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
+- [Who could be behind the Binance hack and what we know so far](https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss)
+- [From Bitcoin to Binance: Crypto terms and what they mean](https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss)
