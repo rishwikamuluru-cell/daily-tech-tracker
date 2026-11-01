@@ -1447,3 +1447,10 @@
 - [US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)
 - [Google value plunges by $500bn as its own AI search hits ad sales](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
 - [Who could be behind the Binance hack and what we know so far](https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-01 15:47:10 UTC
+- [These firms you've never heard of are feeding fears the AI bubble could burst](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
+- [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
+- [US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)
+- [Google value plunges by $500bn as its own AI search hits ad sales](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
+- [Who could be behind the Binance hack and what we know so far](https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss)
