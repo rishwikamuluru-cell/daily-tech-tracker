@@ -1489,3 +1489,10 @@
 - [These firms you've never heard of are feeding fears the AI bubble could burst](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
 - [Why North Korea's 'elite' hackers are the prime suspect in major Binance hack](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
 - [US tech stocks see sharp falls as AI spending nears $1tn](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-03 03:36:10 UTC
+- [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
+- [Apple unsure when more foldable iPhones will be available after selling out](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
+- [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
+- [Binance users withdraw $3.6bn after largest-ever crypto hack](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss)
+- [These firms you've never heard of are feeding fears the AI bubble could burst](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
