@@ -1510,3 +1510,10 @@
 - [Apple unsure when it will get more foldable iPhones ahead of Christmas](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
 - [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
 - [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-04 00:04:48 UTC
+- [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
+- [UK meat industry hit by cyber-attack which targeted European supermarket freezers ](https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss)
+- [Apple unsure when it will get more foldable iPhones ahead of Christmas](https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss)
+- [North Korea denies being behind record $6.3bn Binance hack](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss)
+- [If hackers can take control of a supermarket freezer, how vulnerable is other tech?](https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss)
