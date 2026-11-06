@@ -1566,3 +1566,10 @@
 - [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
 - [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
 - [Binance says fake job interviews used as part of $6.3bn crypto hack](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-06 03:12:36 UTC
+- [Global tech stocks plunge as US midterms add to AI slowdown fears](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+- [The engine parts that 'fight the laws of the universe'](https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss)
+- [Elon Musk's millions failed to deliver Republican wins in fierce midterms](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss)
+- [French blood storage impacted by freezer hacks as theories swirl about culprits](https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss)
+- [Graduates are managing AI - but are they learning much else?](https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss)
