@@ -1671,3 +1671,10 @@
 - [Can the Zelda remake capture the magic of the original?](https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss)
 - [Elon Musk appears to signal the end of the road for Cybertruck](https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss)
 - [AI stocks climb after trillions wiped from market values](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-09 20:56:49 UTC
+- [Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss)
+- [What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+- [Who is the suspected Chinese spy at centre of the Nvidia investigation?](https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss)
+- [Government 'looking seriously' at banning under-16s from Vinted and eBay](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss)
+- [Can the Zelda remake capture the magic of the original?](https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss)
