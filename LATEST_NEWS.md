@@ -1692,3 +1692,10 @@
 - [Australia considers criminal penalties for rogue AI in wake of OpenAI hack ](https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss)
 - [What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
 - [Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond](https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-10 19:22:25 UTC
+- [Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
+- [Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security](https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss)
+- [Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss)
+- [Australia considers criminal penalties for rogue AI in wake of OpenAI hack ](https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss)
+- [What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
