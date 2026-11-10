@@ -1685,3 +1685,10 @@
 - [What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
 - [Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss)
 - [Who is the suspected Chinese spy at centre of the Nvidia investigation?](https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-10 11:31:07 UTC
+- [Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security](https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss)
+- [Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss)
+- [Australia considers criminal penalties for rogue AI in wake of OpenAI hack ](https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss)
+- [What we know so far about Jensen Huang's affair with suspected Chinese spy](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+- [Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond](https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss)
