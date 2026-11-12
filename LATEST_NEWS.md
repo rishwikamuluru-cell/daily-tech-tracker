@@ -1741,3 +1741,10 @@
 - [Lego marketplace BrickLink offline after 'unusual activity' detected](https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss)
 - [New Indian mega library rocked by scandal over 'AI-generated books'](https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss)
 - [Robot vessels take on the dangerous work of mine hunting](https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-12 18:41:53 UTC
+- [The rise and fall of Jensen Huang - how the tech superstar became mired in scandal](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
+- [Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
+- [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+- [Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
+- [Lego marketplace BrickLink offline after 'unusual activity' detected](https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss)
