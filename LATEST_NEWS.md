@@ -1748,3 +1748,10 @@
 - [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
 - [Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
 - [Lego marketplace BrickLink offline after 'unusual activity' detected](https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-12 23:58:06 UTC
+- [Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+- [The rise and fall of Jensen Huang - how the tech superstar became mired in scandal](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
+- [How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
+- [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+- [Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
