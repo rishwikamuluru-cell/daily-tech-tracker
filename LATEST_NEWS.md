@@ -1734,3 +1734,10 @@
 - [Robot vessels take on the dangerous work of mine hunting](https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss)
 - [Nvidia hires major US law firm to investigate alleged Chinese spy affair](https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss)
 - [Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-12 10:40:36 UTC
+- [Who could replace Jensen Huang as Nvidia's chief executive?](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
+- [What we know as pressure builds on embattled Nvidia CEO Jensen Huang](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
+- [Lego marketplace BrickLink offline after 'unusual activity' detected](https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss)
+- [New Indian mega library rocked by scandal over 'AI-generated books'](https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss)
+- [Robot vessels take on the dangerous work of mine hunting](https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss)
