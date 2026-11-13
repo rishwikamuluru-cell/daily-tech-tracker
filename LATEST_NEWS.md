@@ -1755,3 +1755,10 @@
 - [How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
 - [What we know as Nvidia CEO Jensen Huang resigns over affair allegations](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss)
 - [Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-13 06:18:45 UTC
+- [Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+- [Global Microsoft outage affecting tens of thousands of users](https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss)
+- [The rise of 'housefishing' - when does using AI go from enhancing to misleading?](https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss)
+- [The rise and fall of Jensen Huang - how the tech superstar became mired in scandal](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
+- [How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
