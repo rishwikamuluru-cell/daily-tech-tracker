@@ -1769,3 +1769,10 @@
 - [Courts, spies and MPs: How the Microsoft outage has been felt around the world](https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss)
 - [How a sex scandal at Nvidia is putting pressure on the White House](https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss)
 - [What we know so far about the Microsoft outage](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-13 21:12:13 UTC
+- [Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+- [Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
+- [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+- [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
+- [Courts, spies and MPs: How the Microsoft outage has been felt around the world](https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss)
