@@ -1762,3 +1762,10 @@
 - [The rise of 'housefishing' - when does using AI go from enhancing to misleading?](https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss)
 - [The rise and fall of Jensen Huang - how the tech superstar became mired in scandal](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
 - [How AI visionary Jensen Huang was undone by his own bad decisions](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-13 14:48:09 UTC
+- [What we know about the global Microsoft outage](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+- [GPs, police and pharmacies among UK services affected by Microsoft outage](https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss)
+- [Courts, spies and MPs: How the Microsoft outage has been felt around the world](https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss)
+- [How a sex scandal at Nvidia is putting pressure on the White House](https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss)
+- [What we know so far about the Microsoft outage](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)
