@@ -1783,3 +1783,10 @@
 - [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
 - [Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
 - [Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-14 08:38:36 UTC
+- [Microsoft says services fully restored after day-long global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+- [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
+- [How the Jensen Huang scandal created a headache for business-friendly Singapore](https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss)
+- [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
+- [Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
