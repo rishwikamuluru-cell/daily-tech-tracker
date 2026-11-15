@@ -1804,3 +1804,10 @@
 - [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
 - [How the Jensen Huang scandal created a headache for business-friendly Singapore](https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss)
 - [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-15 00:06:12 UTC
+- [Italy fines Meta €805m over accessing users' photos](https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss)
+- [Microsoft says services fully restored after day-long global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+- [Even Grand Theft Auto's original creators haven't been able to play GTA 6](https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss)
+- [How the Jensen Huang scandal created a headache for business-friendly Singapore](https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss)
+- [Microsoft outage 'stark reminder' of how much we rely on tech](https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss)
