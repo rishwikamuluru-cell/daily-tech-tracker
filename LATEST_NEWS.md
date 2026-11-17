@@ -1867,3 +1867,10 @@
 - [The AI start-ups fixing India's broken roads and messy land records](https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss)
 - [OpenAI sued by California over Hugging Face attack](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss)
 - [GTA 6 hacker pleads guilty after release from secure hospital](https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-17 18:12:11 UTC
+- [How new US chip restrictions on South East Asia will hit China](https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss)
+- [NHS data contract to stay with Palantir until 2029](https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss)
+- [Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss)
+- [US government confirms investigation into tech firm Megaspeed](https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss)
+- ['We're a capitalist society': Grindr defends $120 a month premium tier](https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss)
