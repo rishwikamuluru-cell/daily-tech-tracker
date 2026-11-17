@@ -1860,3 +1860,10 @@
 - [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
 - [GTA 6 hacker pleads guilty after release from secure hospital](https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss)
 - [Intel sued by investors after PC sales slump hits share price ](https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-17 08:55:22 UTC
+- [Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+- [New Zealand tricks and annual leave - the lengths fans are going to for GTA 6](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss)
+- [The AI start-ups fixing India's broken roads and messy land records](https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss)
+- [OpenAI sued by California over Hugging Face attack](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss)
+- [GTA 6 hacker pleads guilty after release from secure hospital](https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss)
