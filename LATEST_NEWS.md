@@ -1881,3 +1881,10 @@
 - [How new US chip restrictions on South East Asia will hit China](https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss)
 - [NHS data contract to stay with Palantir until 2029](https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss)
 - [Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-18 08:53:02 UTC
+- [Security flaw found in Java, world's third-largest programming language ](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
+- [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
+- [Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another](https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss)
+- [Waymo pulls driverless taxis from all US freeways](https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss)
+- [Nvidia says it won't reinstate Huang as it reports soaring sales](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
