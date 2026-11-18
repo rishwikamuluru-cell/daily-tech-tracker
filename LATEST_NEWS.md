@@ -1874,3 +1874,10 @@
 - [Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss)
 - [US government confirms investigation into tech firm Megaspeed](https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss)
 - ['We're a capitalist society': Grindr defends $120 a month premium tier](https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-18 01:08:39 UTC
+- [Nvidia says it won't reinstate Huang as firm reports bumper results](https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss)
+- [Europe plans to catch the next computer chip wave](https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss)
+- [How new US chip restrictions on South East Asia will hit China](https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss)
+- [NHS data contract to stay with Palantir until 2029](https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss)
+- [Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6](https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss)
