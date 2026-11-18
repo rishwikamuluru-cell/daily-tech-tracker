@@ -1895,3 +1895,10 @@
 - [Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss)
 - [British hacker who stole $11m through text message scheme jailed for six years in US](https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss)
 - [Security flaw found in Java, world's third-largest programming language ](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-18 23:55:00 UTC
+- [Claude-maker Anthropic poised for $1.4tn stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
+- [The seven Anthropic founders who are about to become multi-billionaires](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
+- [Grand Theft Auto 6 is a masterpiece, say critics](https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss)
+- [Hacks, AI or just overdue updates - why have there been so many outages?](https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss)
+- [British hacker who stole $11m through text message scheme jailed for six years in US](https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss)
