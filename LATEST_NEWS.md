@@ -1916,3 +1916,10 @@
 - [Elon Musk says record $446m spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
 - [The seven Anthropic founders who are about to become multi-billionaires](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
 - [Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?](https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-19 22:58:25 UTC
+- [Anthropic becomes one of world's most valuable public companies in stock market debut](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)
+- [Dutch watchdog tells people not to buy AI smart glasses](https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss)
+- [Anthropic raises $81bn in record-breaking stock market debut](https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss)
+- [UK joins in GTA 6 frenzy as game becomes available worldwide](https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss)
+- [Elon Musk says record $446m spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
