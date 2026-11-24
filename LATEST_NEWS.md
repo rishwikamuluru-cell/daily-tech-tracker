@@ -2028,3 +2028,10 @@
 - [Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns](https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss)
 - [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
 - [The rise and fall and rise again of Jensen Huang](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-24 23:45:41 UTC
+- [Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+- [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+- [Faisal Islam: Fears over the AI boom haven't gone away](https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss)
+- [Helpful but awkward: My week with Meta's Muse ahead of its UK launch](https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss)
+- [US to blacklist Asian AI firm Megaspeed after Nvidia scandal](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
