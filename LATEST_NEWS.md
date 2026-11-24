@@ -2021,3 +2021,10 @@
 - [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
 - [The rise and fall and rise again of Jensen Huang](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
 - [GTA 6 hacker released on licence with warning 'don't let this happen again'](https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-24 14:34:23 UTC
+- [Helpful but awkward: My week with Meta's Muse ahead of its UK launch](https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss)
+- [US to blacklist Asian AI firm Megaspeed after Nvidia scandal](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
+- [Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns](https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss)
+- [How important are Nvidia and Jensen Huang to the US economy?](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
+- [The rise and fall and rise again of Jensen Huang](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss)
