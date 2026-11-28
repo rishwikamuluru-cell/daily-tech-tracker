@@ -2098,3 +2098,10 @@
 - [Asia made a big AI bet on Nvidia. What happens now? ](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)
 - [Musk's plan to send a million SpaceX data satellites into space approved](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
 - [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-28 12:09:10 UTC
+- [OpenAI counter-sues Apple over alleged theft of trade secrets](https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss)
+- [Pensions and benefits services still down after 'cyber incident'](https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss)
+- [How gamers are using AI and leaked files to clone Grand Theft Auto 6](https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss)
+- [Why is there a shortage of 'wizard' elevator mechanics?](https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss)
+- [Asia made a big AI bet on Nvidia. What happens now? ](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)
