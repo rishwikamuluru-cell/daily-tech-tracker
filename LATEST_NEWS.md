@@ -2105,3 +2105,10 @@
 - [How gamers are using AI and leaked files to clone Grand Theft Auto 6](https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss)
 - [Why is there a shortage of 'wizard' elevator mechanics?](https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss)
 - [Asia made a big AI bet on Nvidia. What happens now? ](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)
+
+### Update: 2026-11-28 20:27:21 UTC
+- [Pensions and benefits services still down after 'cyber incident'](https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss)
+- [OpenAI counter-sues Apple over alleged theft of trade secrets](https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss)
+- [How gamers are using AI and leaked files to clone Grand Theft Auto 6](https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss)
+- [Why is there a shortage of 'wizard' elevator mechanics?](https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss)
+- [Asia made a big AI bet on Nvidia. What happens now? ](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)
